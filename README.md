@@ -1,3 +1,7 @@
+# Scala
+
+Simple Scala application, to be deployed on heroku
+
 # .heroku
 
 To link with my heroku account on https://dashboard.heroku.com
