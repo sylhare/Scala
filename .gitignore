@@ -58,3 +58,6 @@ Temporary Items
 /out/*
 /project/*
 
+/src/HelloWorld/HelloWorld.iml
+/Simple-Scala-App.iml
+/Scala.iml
