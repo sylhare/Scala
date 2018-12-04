@@ -40,6 +40,10 @@ Execute the scala script (in the script directory):
 scala HelloWorld
 ```
 
+Exercise with scala:
+
+- [Scala tutorial](https://www.scala-exercises.org/scala_tutorial/terms_and_types)
+
 ## .heroku deploy
 
 Simple Scala application, to be deployed on heroku.
